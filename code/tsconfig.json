@@ -1,0 +1,17 @@
+{
+"compilerOptions":
+	{
+	"target": "esnext",
+	"module": "esnext",
+	"paths":
+		{
+		"besso/*": ["../../Code/javascript/browser/dist/*"]
+		},
+	"rootDir": "./src",
+	"outDir": "./dist",
+	"lib": ["DOM", "ESNext"],
+	"strict": true,
+	"skipLibCheck": true,
+	"declaration": false
+	}
+}

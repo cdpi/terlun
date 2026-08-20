@@ -1,0 +1,11 @@
+{
+"type": "module",
+"dependencies":
+	{
+	"besso":"file:../../Code/javascript/browser/dist/"
+	},
+"devDependencies":
+	{
+	"@types/node":"^26.2.0"
+	}
+}
